@@ -11,6 +11,8 @@ As a **role** I can **capability** so that **received_benefit**
 
 ###  Acceptance criteria
 
-- Acceptance criteria 1
-- Acceptance criteria 2
-- Acceptance criteria 3
+- Acceptance_criteria_1
+- Acceptance_criteria_2
+- Acceptance_criteria_3
+- Acceptance_criteria_4
+- Acceptance_criteria_5
